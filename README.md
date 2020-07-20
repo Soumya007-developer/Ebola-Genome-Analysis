@@ -1,3 +1,4 @@
 # Ebola-Genome-Analysis
 A brief study on the genome(Zaire Ebola) and it's structure and proteins
-For more references , refer: https://github.com/Bhard27
+
+## Based on the algorithms and works by [Pranjal Bhardwaj](https://github.com/Bhard27) => [Project](https://github.com/Bhard27/COVID-Genome-DS)
